@@ -15,3 +15,5 @@
 [Presentación -Series de Tiempo-](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Presentaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf)
 
 - [Kahoot examen](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Calificaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf)
+
+- [Ejercicio](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Ejercicio_Series-de-Tiempo_Equipo-8.R)
