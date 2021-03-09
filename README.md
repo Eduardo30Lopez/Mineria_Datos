@@ -12,3 +12,5 @@
 [Avance del PIA](https://github.com/TennetA0/Mineria_FCFM/blob/main/Avance1_PIA_Equipo8.ipynb)
 
 ## Fase II
+[Presentación -Series de Tiempo-](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Presentaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf)
+-[Kahoot examen](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Calificaci%C3%B3n_Series-de-Tiempo_Equipo-8.pdf)
