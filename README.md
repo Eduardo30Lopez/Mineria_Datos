@@ -18,7 +18,7 @@
 
 - [Ejercicio](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Ejercicio_Series-de-Tiempo_Equipo-8.R)
 
-[Mapa Mental]
+[Mapa Mental](https://github.com/Eduardo30Lopez/Mineria_Datos/blob/main/Miner%C3%ADa%20de%20Datos/MapaMental_2_1871089.pdf)
 
 [Práctica de visualización de datos](https://github.com/TennetA0/Mineria_FCFM/blob/main/Trabajos/Visualizaci%C3%B3n_Equipo8.ipynb)
 
